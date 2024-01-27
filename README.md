@@ -1,4 +1,4 @@
 # This repository was created for the DIO challenge
 
-## Usiful links
+## Useful links
 [Basic sintax Markdown](https://www.markdownguide.org/basic-syntax/)
